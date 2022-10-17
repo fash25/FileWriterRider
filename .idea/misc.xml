@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Development/Android/FileWriterRider/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Development/Android/FileWriterRider/app/src/main/res/layout-nokeys-v27/activity_main.xml" value="0.1125" />
+        <entry key="..\:/Development/Android/FileWriterRider/app/src/main/res/layout-nokeys/activity_main.xml" value="0.21" />
+        <entry key="..\:/Development/Android/FileWriterRider/app/src/main/res/layout-qwerty/activity_main.xml" value="0.13984375" />
+        <entry key="..\:/Development/Android/FileWriterRider/app/src/main/res/layout-v27/activity_main.xml" value="0.1125" />
+        <entry key="..\:/Development/Android/FileWriterRider/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
